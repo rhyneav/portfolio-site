@@ -4980,7 +4980,7 @@ It works by:</p>
 <p><em>Note: For confidentiality reasons, Iâ€™m not allowed to post the source files on the internet :(</em></p>
 ;
 T;@§o;;;;	I"/side/grade-tracker.md;
-T{;{	;U;[0I"õ<!DOCTYPE HTML>
+T{;{	;U;[0I"7<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -5038,7 +5038,8 @@ T{;{	;U;[0I"õ<!DOCTYPE HTML>
 <h1 id="grade-tracker">Grade Tracker</h1>
 
 <p>This was made as a refresher for my Excel skills and web design (landing page) skills before the school year starts. 
-But, its main function is to provide a resource for chapter brothers to keep accountable with their grades.</p>
+But, its main function is to provide a resource for chapter brothers to keep accountable with their grades.
+The tracker and site was made in 24 hours to prevent scope creep.</p>
 
 <h2 id="how-does-it-work">How does it work?</h2>
 
@@ -5070,28 +5071,30 @@ But, its main function is to provide a resource for chapter brothers to keep acc
 </html>
 ;
 T;U;[I"C/home/ubuntu/workspace/portfolio/content/side/grade-tracker.md;
-TI"£
+TI"å
 # Grade Tracker
 
 This was made as a refresher for my Excel skills and web design (landing page) skills before the school year starts. 
 But, its main function is to provide a resource for chapter brothers to keep accountable with their grades.
+The tracker and site was made in 24 hours to prevent scope creep.
 
 ## How does it work?
 
 It works by automating as many things as possible using Excel formulas to make entering grades and seeing how your GPA is affected as easy as possible.
 ;
-T;U;[0I"ç
+T;U;[0I")
 <h1 id="grade-tracker">Grade Tracker</h1>
 
 <p>This was made as a refresher for my Excel skills and web design (landing page) skills before the school year starts. 
-But, its main function is to provide a resource for chapter brothers to keep accountable with their grades.</p>
+But, its main function is to provide a resource for chapter brothers to keep accountable with their grades.
+The tracker and site was made in 24 hours to prevent scope creep.</p>
 
 <h2 id="how-does-it-work">How does it work?</h2>
 
 <p>It works by automating as many things as possible using Excel formulas to make entering grades and seeing how your GPA is affected as easy as possible.</p>
 ;
 T;@µo;;;;	I"/more/about.md;
-T{;{	;U;[0I"<!DOCTYPE HTML>
+T{;{	;U;[0I"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -5150,7 +5153,7 @@ T{;{	;U;[0I"<!DOCTYPE HTML>
 
 <p><img src="/img/me.png" alt="Rhyne Vlaservich" title="Rhyne Vlaservich" /></p>
 
-<p>My name is Rhyne Vlaservich, and Iâ€™m a fourth year student who likes making ideas into realities and making inefficient processes more effective through technology.</p>
+<p>My name is Rhyne Vlaservich, and Iâ€™m a fourth year student who likes turning ideas into realities and making inefficient processes more effective through technology.</p>
 
 <h2 id="past">Past</h2>
 
@@ -5199,12 +5202,12 @@ It is something I hope to make an impact on the world doing.</p>
 </html>
 ;
 T;U;[I";/home/ubuntu/workspace/portfolio/content/more/about.md;
-TI"ü
+TI"ý
 # About
 
 ![Rhyne Vlaservich](/img/me.png "Rhyne Vlaservich")
 
-My name is Rhyne Vlaservich, and I'm a fourth year student who likes making ideas into realities and making inefficient processes more effective through technology.
+My name is Rhyne Vlaservich, and I'm a fourth year student who likes turning ideas into realities and making inefficient processes more effective through technology.
 
 ## Past
 
@@ -5227,12 +5230,12 @@ It is something I hope to make an impact on the world doing.
 
 *Check out [my resume](/more/Vlaservich-Resume-Fall-2016-site.pdf) to learn more about what I'm doing!*
 ;
-T;U;[0I"¡
+T;U;[0I"¢
 <h1 id="about">About</h1>
 
 <p><img src="/img/me.png" alt="Rhyne Vlaservich" title="Rhyne Vlaservich" /></p>
 
-<p>My name is Rhyne Vlaservich, and Iâ€™m a fourth year student who likes making ideas into realities and making inefficient processes more effective through technology.</p>
+<p>My name is Rhyne Vlaservich, and Iâ€™m a fourth year student who likes turning ideas into realities and making inefficient processes more effective through technology.</p>
 
 <h2 id="past">Past</h2>
 

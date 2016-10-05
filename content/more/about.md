@@ -6,7 +6,7 @@ title: About
 
 ![Rhyne Vlaservich](/img/me.png "Rhyne Vlaservich")
 
-My name is Rhyne Vlaservich, and I'm a fourth year student who likes making ideas into realities and making inefficient processes more effective through technology.
+My name is Rhyne Vlaservich, and I'm a fourth year student who likes turning ideas into realities and making inefficient processes more effective through technology.
 
 ## Past
 

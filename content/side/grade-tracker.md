@@ -14,6 +14,7 @@ languages:
 
 This was made as a refresher for my Excel skills and web design (landing page) skills before the school year starts. 
 But, its main function is to provide a resource for chapter brothers to keep accountable with their grades.
+The tracker and site was made in 24 hours to prevent scope creep.
 
 ## How does it work?
 
