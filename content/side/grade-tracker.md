@@ -1,5 +1,5 @@
 ---
-title: Reporting Tool
+title: Grade Tracker
 published: 24 July 2016
 
 link: https://vlaservi.ch/grade-tracker/

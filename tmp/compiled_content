@@ -4103,7 +4103,7 @@ T;U;[0I"Æ
 <p>If you are looking to get in touch with Rhyne regarding exciting opportunities or to chat about web development, just shoot him an email at rhyneav@gmail.com!</p>
 ;
 T;@Xo;;;;	I"/more/contact.md;
-T{;{	;U;[0I" <!DOCTYPE HTML>
+T{;{	;U;[0I"e<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4160,7 +4160,7 @@ T{;{	;U;[0I" <!DOCTYPE HTML>
         
 <h1 id="contact">Contact</h1>
 
-<p>If you are looking to get in touch regarding exciting opportunities or to chat about web development, just shoot me an email at rhyneav@gmail.com!</p>
+<p>If you are looking to get in touch regarding exciting opportunities or to chat about web development, just shoot me an email at <a href="mailto:rhyneav@gmail.com?Subject=Hello" target="_blank">rhyneav@gmail.com</a>!</p>
 
         <div class="external">
           
@@ -4188,14 +4188,14 @@ T{;{	;U;[0I" <!DOCTYPE HTML>
 </html>
 ;
 T;U;[I"=/home/ubuntu/workspace/portfolio/content/more/contact.md;
-TI"ž
+TI"Ú
 # Contact
 
-If you are looking to get in touch regarding exciting opportunities or to chat about web development, just shoot me an email at rhyneav@gmail.com!;
-T;U;[0I"º
+If you are looking to get in touch regarding exciting opportunities or to chat about web development, just shoot me an email at [rhyneav@gmail.com](mailto:rhyneav@gmail.com?Subject=Hello){:target="_blank"}!;
+T;U;[0I"ÿ
 <h1 id="contact">Contact</h1>
 
-<p>If you are looking to get in touch regarding exciting opportunities or to chat about web development, just shoot me an email at rhyneav@gmail.com!</p>
+<p>If you are looking to get in touch regarding exciting opportunities or to chat about web development, just shoot me an email at <a href="mailto:rhyneav@gmail.com?Subject=Hello" target="_blank">rhyneav@gmail.com</a>!</p>
 ;
 T;@fo;;;;	I"/side/insta-tweet.md;
 T{;{	;U;[0I"R<!DOCTYPE HTML>
@@ -4980,11 +4980,11 @@ It works by:</p>
 <p><em>Note: For confidentiality reasons, Iâ€™m not allowed to post the source files on the internet :(</em></p>
 ;
 T;@§o;;;;	I"/side/grade-tracker.md;
-T{;{	;U;[0I"ö<!DOCTYPE HTML>
+T{;{	;U;[0I"õ<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Reporting Tool</title>
+    <title>Grade Tracker</title>
     <link rel="stylesheet" href="/assets/stylesheet.css">
     <link rel="stylesheet" href="/assets/animate.css">
     <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
@@ -5091,7 +5091,7 @@ But, its main function is to provide a resource for chapter brothers to keep acc
 <p>It works by automating as many things as possible using Excel formulas to make entering grades and seeing how your GPA is affected as easy as possible.</p>
 ;
 T;@µo;;;;	I"/more/about.md;
-T{;{	;U;[0I"é<!DOCTYPE HTML>
+T{;{	;U;[0I"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -5171,7 +5171,7 @@ However, I know I want to make things for people using computers.
 The concept of taking an idea and making it into a polished product that anyone with a computer can use is mind-blowingly cool.
 It is something I hope to make an impact on the world doing.</p>
 
-<p><em>Check out <a href="http://w.com">my resume</a> to learn more about what Iâ€™m doing!</em></p>
+<p><em>Check out <a href="/more/Vlaservich-Resume-Fall-2016-site.pdf">my resume</a> to learn more about what Iâ€™m doing!</em></p>
 
         <div class="external">
           
@@ -5199,7 +5199,7 @@ It is something I hope to make an impact on the world doing.</p>
 </html>
 ;
 T;U;[I";/home/ubuntu/workspace/portfolio/content/more/about.md;
-TI"Þ
+TI"ü
 # About
 
 ![Rhyne Vlaservich](/img/me.png "Rhyne Vlaservich")
@@ -5225,9 +5225,9 @@ However, I know I want to make things for people using computers.
 The concept of taking an idea and making it into a polished product that anyone with a computer can use is mind-blowingly cool.
 It is something I hope to make an impact on the world doing.
 
-*Check out [my resume](http://w.com) to learn more about what I'm doing!*
+*Check out [my resume](/more/Vlaservich-Resume-Fall-2016-site.pdf) to learn more about what I'm doing!*
 ;
-T;U;[0I"ƒ
+T;U;[0I"¡
 <h1 id="about">About</h1>
 
 <p><img src="/img/me.png" alt="Rhyne Vlaservich" title="Rhyne Vlaservich" /></p>
@@ -5253,7 +5253,7 @@ However, I know I want to make things for people using computers.
 The concept of taking an idea and making it into a polished product that anyone with a computer can use is mind-blowingly cool.
 It is something I hope to make an impact on the world doing.</p>
 
-<p><em>Check out <a href="http://w.com">my resume</a> to learn more about what Iâ€™m doing!</em></p>
+<p><em>Check out <a href="/more/Vlaservich-Resume-Fall-2016-site.pdf">my resume</a> to learn more about what Iâ€™m doing!</em></p>
 ;
 T;@Ão;;;;	I"/assets/stylesheet.css;
 T{;{;U;[I"C/home/ubuntu/workspace/portfolio/content/assets/stylesheet.css;
