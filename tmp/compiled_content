@@ -3739,7 +3739,7 @@ TI"C@charset "UTF-8";
 }
 ;
 T;@&;@&o;;;;	I"/index.md;
-T{;{	;U;[0I"Ö<!DOCTYPE HTML>
+T{;{	;U;[0I"Å<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -3816,7 +3816,7 @@ It‚Äôs also mobile responsive with animated buttons and a menu overlay displayed
       </div>
     </div>
     <script type="text/javascript" src="/assets/scripts.js"></script>
-    <!-- Analytics
+    <!-- Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -3826,7 +3826,6 @@ It‚Äôs also mobile responsive with animated buttons and a menu overlay displayed
       ga('create', 'UA-82661926-1', 'auto');
       ga('send', 'pageview');
     </script>
-    -->
   </body>
 </html>
 ;
@@ -4103,7 +4102,7 @@ T;U;[0I"∆
 <p>If you are looking to get in touch with Rhyne regarding exciting opportunities or to chat about web development, just shoot him an email at rhyneav@gmail.com!</p>
 ;
 T;@Xo;;;;	I"/more/contact.md;
-T{;{	;U;[0I"e<!DOCTYPE HTML>
+T{;{	;U;[0I"a<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4173,7 +4172,7 @@ T{;{	;U;[0I"e<!DOCTYPE HTML>
       </div>
     </div>
     <script type="text/javascript" src="/assets/scripts.js"></script>
-    <!-- Analytics
+    <!-- Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -4183,7 +4182,6 @@ T{;{	;U;[0I"e<!DOCTYPE HTML>
       ga('create', 'UA-82661926-1', 'auto');
       ga('send', 'pageview');
     </script>
-    -->
   </body>
 </html>
 ;
@@ -4198,7 +4196,7 @@ T;U;[0I"ˇ
 <p>If you are looking to get in touch regarding exciting opportunities or to chat about web development, just shoot me an email at <a href="mailto:rhyneav@gmail.com?Subject=Hello" target="_blank">rhyneav@gmail.com</a>!</p>
 ;
 T;@fo;;;;	I"/side/insta-tweet.md;
-T{;{	;U;[0I"R<!DOCTYPE HTML>
+T{;{	;U;[0I"N<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4284,7 +4282,7 @@ When text is highlighted and the Tweet button clicked, the text is:</p>
       </div>
     </div>
     <script type="text/javascript" src="/assets/scripts.js"></script>
-    <!-- Analytics
+    <!-- Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -4294,7 +4292,6 @@ When text is highlighted and the Tweet button clicked, the text is:</p>
       ga('create', 'UA-82661926-1', 'auto');
       ga('send', 'pageview');
     </script>
-    -->
   </body>
 </html>
 ;
@@ -4340,7 +4337,7 @@ When text is highlighted and the Tweet button clicked, the text is:</p>
 </ol>
 ;
 T;@to;;;;	I"/side/frat-srat-gen.md;
-T{;{	;U;[0I"<!DOCTYPE HTML>
+T{;{	;U;[0I"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4423,7 +4420,7 @@ T{;{	;U;[0I"<!DOCTYPE HTML>
       </div>
     </div>
     <script type="text/javascript" src="/assets/scripts.js"></script>
-    <!-- Analytics
+    <!-- Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -4433,7 +4430,6 @@ T{;{	;U;[0I"<!DOCTYPE HTML>
       ga('create', 'UA-82661926-1', 'auto');
       ga('send', 'pageview');
     </script>
-    -->
   </body>
 </html>
 ;
@@ -4472,7 +4468,7 @@ T;U;[0I"ù
 </ol>
 ;
 T;@}o;;;;	I"/work/email-branding.md;
-T{;{	;U;[0I"Í<!DOCTYPE HTML>
+T{;{	;U;[0I"Ê<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4557,7 +4553,7 @@ Once implemented in Pardot, the newly branded emails performed 4% better on aver
       </div>
     </div>
     <script type="text/javascript" src="/assets/scripts.js"></script>
-    <!-- Analytics
+    <!-- Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -4567,7 +4563,6 @@ Once implemented in Pardot, the newly branded emails performed 4% better on aver
       ga('create', 'UA-82661926-1', 'auto');
       ga('send', 'pageview');
     </script>
-    -->
   </body>
 </html>
 ;
@@ -4610,7 +4605,7 @@ Once implemented in Pardot, the newly branded emails performed 4% better on aver
 </ol>
 ;
 T;@ão;;;;	I"/work/landing-pages.md;
-T{;{	;U;[0I"©<!DOCTYPE HTML>
+T{;{	;U;[0I"•<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4694,7 +4689,7 @@ A lot of what I did with landing pages was to make them mobile responsive, compl
       </div>
     </div>
     <script type="text/javascript" src="/assets/scripts.js"></script>
-    <!-- Analytics
+    <!-- Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -4704,7 +4699,6 @@ A lot of what I did with landing pages was to make them mobile responsive, compl
       ga('create', 'UA-82661926-1', 'auto');
       ga('send', 'pageview');
     </script>
-    -->
   </body>
 </html>
 ;
@@ -4745,7 +4739,7 @@ A lot of what I did with landing pages was to make them mobile responsive, compl
 </ol>
 ;
 T;@ôo;;;;	I"/work/reporting-tool.md;
-T{;{	;U;[0I"◊<!DOCTYPE HTML>
+T{;{	;U;[0I"”<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4863,7 +4857,7 @@ It works by:</p>
       </div>
     </div>
     <script type="text/javascript" src="/assets/scripts.js"></script>
-    <!-- Analytics
+    <!-- Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -4873,7 +4867,6 @@ It works by:</p>
       ga('create', 'UA-82661926-1', 'auto');
       ga('send', 'pageview');
     </script>
-    -->
   </body>
 </html>
 ;
@@ -4980,7 +4973,7 @@ It works by:</p>
 <p><em>Note: For confidentiality reasons, I‚Äôm not allowed to post the source files on the internet :(</em></p>
 ;
 T;@ßo;;;;	I"/side/grade-tracker.md;
-T{;{	;U;[0I"7<!DOCTYPE HTML>
+T{;{	;U;[0I"3<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -5056,7 +5049,7 @@ The tracker and site was made in 24 hours to prevent scope creep.</p>
       </div>
     </div>
     <script type="text/javascript" src="/assets/scripts.js"></script>
-    <!-- Analytics
+    <!-- Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -5066,7 +5059,6 @@ The tracker and site was made in 24 hours to prevent scope creep.</p>
       ga('create', 'UA-82661926-1', 'auto');
       ga('send', 'pageview');
     </script>
-    -->
   </body>
 </html>
 ;
@@ -5094,7 +5086,7 @@ The tracker and site was made in 24 hours to prevent scope creep.</p>
 <p>It works by automating as many things as possible using Excel formulas to make entering grades and seeing how your GPA is affected as easy as possible.</p>
 ;
 T;@µo;;;;	I"/more/about.md;
-T{;{	;U;[0I"<!DOCTYPE HTML>
+T{;{	;U;[0I"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -5187,7 +5179,7 @@ It is something I hope to make an impact on the world doing.</p>
       </div>
     </div>
     <script type="text/javascript" src="/assets/scripts.js"></script>
-    <!-- Analytics
+    <!-- Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -5197,7 +5189,6 @@ It is something I hope to make an impact on the world doing.</p>
       ga('create', 'UA-82661926-1', 'auto');
       ga('send', 'pageview');
     </script>
-    -->
   </body>
 </html>
 ;
