@@ -1,4 +1,4 @@
-{:	data{[:item_repo:Nanoc::Identifier:
+{:	data{[:item_repo:Nanoc::Identifier:
 @type:	full:@stringI"/stylesheet.css:ET:default[[	:snapshot:rawT0[	;:preF0[	;:	lastTI"/stylesheet.css;T[;o;;;	;
 I"/index.html;T;[[	;;T0[	;;F0[	;;T0[:layoutI"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;:	postT0[	;;TI"/index.html;T[;o;;;	;
 I"/default.html;T[[:filter:erbI"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[;o;;;	;
@@ -12,4 +12,13 @@ I"/more/contact.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=
 I"/side/insta-tweet.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[	;;T0[;I"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;;T0[	;;TI"!/side/insta-tweet/index.html;T[;o;;;	;
 I"/side/frat-srat-gen.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[	;;T0[;I"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;;T0[	;;TI"#/side/frat-srat-gen/index.html;T[;o;;;	;
 I"/work/email-branding.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[	;;T0[;I"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;;T0[	;;TI"$/work/email-branding/index.html;T[;o;;;	;
-I"/work/landing-pages.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[	;;T0[;I"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;;T0[	;;TI"#/work/landing-pages/index.html;T:versioni
+I"/work/landing-pages.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[	;;T0[;I"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;;T0[	;;TI"#/work/landing-pages/index.html;T[;o;;;	;
+I"/work/reporting-tool.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[	;;T0[;I"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;;T0[	;;TI"$/work/reporting-tool/index.html;T[;o;;;	;
+I"/side/grade-tracker.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[	;;T0[;I"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;;T0[	;;TI"#/side/grade-tracker/index.html;T[;o;;;	;
+I"/more/about.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[	;;T0[;I"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;;T0[	;;TI"/more/about/index.html;T[;o;;;	;
+I"/assets/stylesheet.css;T;[[	;;T0[	;;F0[	;;TI"/assets/stylesheet.css;T[;o;;;	;
+I"/assets/animate.css;T;[[	;;T0[	;;F0[	;;TI"/assets/animate.css;T[;o;;;	;
+I"/assets/scripts.js;T;[[	;;T0[	;;F0[	;;TI"/assets/scripts.js;T[;o;;;	;
+I"/assets/favicon.ico;T;[[	;;T0[	;;F0[	;;TI"/assets/favicon.ico;T[;o;;;	;
+I"/img/me.png;T;[[	;;T0[	;;F0[	;;TI"/img/me.png;T[;o;;;	;
+I"//more/Vlaservich-Resume-Fall-2016-site.pdf;T;[[	;;T0[	;;F0[	;;TI"//more/Vlaservich-Resume-Fall-2016-site.pdf;T:versioni

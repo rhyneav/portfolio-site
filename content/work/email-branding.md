@@ -1,5 +1,6 @@
 ---
 title: Email Branding 
+published: 4 January 2016
 
 languages:
 - HTML
@@ -8,7 +9,7 @@ languages:
 
 # Email Branding 
 
-### Projetech, Inc.
+#### Projetech, Inc.
 
 One problem that consistently faces a small company is having cohesive branding through different online marketing campaigns. 
 While using new fonts, styles, and images might be exciting, branding and user trust is sacrificed.
@@ -19,7 +20,6 @@ Once implemented in Pardot, the newly branded emails performed 4% better on aver
 
 Email templates:
 
-1.  [title](http://w.com)
-2.  [title](http://w.com)
-3.  [title](http://w.com)
-4.  [title](http://w.com)
+1.  [Simple communication template](http://vlaservi.ch/projetech/emails/personal.html){:target="_blank"}
+2.  [Auto Responder template with mascot, Max](http://vlaservi.ch/projetech/emails/personalWithMax.html){:target="_blank"}
+3.  [Marketing template with hero image](http://vlaservi.ch/projetech/emails/marketingStyled.html){:target="_blank"}

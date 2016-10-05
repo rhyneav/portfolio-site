@@ -3,8 +3,9 @@
   <head>
     <meta charset="utf-8">
     <title>Frat-Srat-Gen</title>
-    <link rel="stylesheet" href="/stylesheet.css">
-    <link rel="stylesheet" href="/animate.css">
+    <link rel="stylesheet" href="/assets/stylesheet.css">
+    <link rel="stylesheet" href="/assets/animate.css">
+    <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="Nanoc 4.3.2">
@@ -20,27 +21,30 @@
         <div class="navigation">
           <h2>Side Projects</h2>
           <ul>
-            <li><a href="/">Portfolio</a></li>
-            <li><a href="/side/insta-tweet">Insta-Tweet</a></li>
-            <li><a href="/side/frat-srat-gen">Frat-Srat-Gen</a></li>
+            <li><a href="/side/insta-tweet/">Insta-Tweet</a></li>
+            <li><span class="active">Frat-Srat-Gen</span></li>
+            <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
-            <li><a href="/work/email-branding">Email Branding</a></li>
-            <li><a href="/work/landing-pages">Landing Pages</a></li>
-            <li><a href="#">Reporting Tool</a></li>
+            <li><a href="/work/email-branding/">Email Branding</a></li>
+            <li><a href="/work/landing-pages/">Landing Pages</a></li>
+            <li><a href="/work/reporting-tool/">Reporting Tool</a></li>
           </ul>
           <h2>More Info</h2>
           <ul>
-            <li><a href="#">About</a></li>
-            <li><a href="/more/contact">Contact</a></li>
-            <li><a href="#">Resume</a></li>
+            <li><a href="/more/about/">About</a></li>
+            <li><a href="/more/contact/">Contact</a></li>
+            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016-site.pdf">Resume</a></li> 
           </ul>
           <h2>External Links</h2>
           <ul>
-            <li><a href="#">LinkedIn</a></li>
-            <li><a href="https://github.com/rhyneav">Github</a></li>
-            <li><a href="#">Medium</a></li>
+            <li><a target="_blank" href="https://www.linkedin.com/in/rhyne-vlaservich-9a4bb182">LinkedIn</a></li>
+            <li><a target="_blank" href="https://github.com/rhyneav">Github</a></li>
+            <li><a target="_blank" href="https://medium.com/@rhyneav">Medium</a></li>
+          </ul>
+          <ul class="home-link">
+            <li><a href="/">Home</a></li>
           </ul>
         </div>
       </div>
@@ -53,13 +57,40 @@
 
 <p>This tool was developed to poke fun at the cheesy slogans seen at fraternities and sororities around campus. Generate your own randomly generated Greek house and slogan using the link below!</p>
 
-        <h2>Languages: </h2><p>HTML, CSS, JavaScript</p>
+<h2 id="how-does-it-work">How does it work?</h2>
+
+<p>It works by using a list of Greek letters, adjectives, and nouns all stored in a Google sheet and then randomly displays some of them on the page by:</p>
+
+<ol>
+  <li>JQuery’s $.getJSON pulls over these JSON objects to the browser</li>
+  <li>Code grabs three random letters, two random adjectives, and two random nouns from JSON</li>
+  <li>Page is updated with the new chapter and random background color</li>
+  <li>Each RE-ROLL click removes the new chapter and gets the random elements again.</li>
+  <li>JSON is not reloaded :)</li>
+  <li>Tweet button works the same as <a href="/side/insta-tweet/">Insta-Tweet</a></li>
+</ol>
+
         <div class="external">
-          <a class="link-button" href="http://frat-srat-gen.vlaservi.ch/">View the Project</a>
-          <a class="link-button repo" href="https://github.com/rhyneav/frat-srat-gen">View the Repo</a>
+          <a class="link-button" target="_blank" href="http://frat-srat-gen.vlaservi.ch/">View the Project</a>
+          <a class="link-button repo" target="_blank" href="https://github.com/rhyneav/frat-srat-gen">View the Repo</a>
+        </div>
+        <div class="post-info">
+          <p>Made with: HTML, CSS, JQuery</p>
+          <p>Published on: 1 October 2016</p>
         </div>
       </div>
     </div>
-    <script type="text/javascript" src="/scripts.js"></script>
+    <script type="text/javascript" src="/assets/scripts.js"></script>
+    <!-- Analytics
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      
+      ga('create', 'UA-82661926-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+    -->
   </body>
 </html>
