@@ -3739,11 +3739,12 @@ TI"C@charset "UTF-8";
 }
 ;
 T;@&;@&o;;;;	I"/index.md;
-T{;{	;U;[0I"Å<!DOCTYPE HTML>
+T{;{	;U;[0I"Ü<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>Home</title>
+    
     <link rel="stylesheet" href="/assets/stylesheet.css">
     <link rel="stylesheet" href="/assets/animate.css">
     <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
@@ -4102,11 +4103,12 @@ T;U;[0I"∆
 <p>If you are looking to get in touch with Rhyne regarding exciting opportunities or to chat about web development, just shoot him an email at rhyneav@gmail.com!</p>
 ;
 T;@Xo;;;;	I"/more/contact.md;
-T{;{	;U;[0I"a<!DOCTYPE HTML>
+T{;{	;U;[0I"f<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>Contact</title>
+    
     <link rel="stylesheet" href="/assets/stylesheet.css">
     <link rel="stylesheet" href="/assets/animate.css">
     <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
@@ -4196,11 +4198,12 @@ T;U;[0I"ˇ
 <p>If you are looking to get in touch regarding exciting opportunities or to chat about web development, just shoot me an email at <a href="mailto:rhyneav@gmail.com?Subject=Hello" target="_blank">rhyneav@gmail.com</a>!</p>
 ;
 T;@fo;;;;	I"/side/insta-tweet.md;
-T{;{	;U;[0I"N<!DOCTYPE HTML>
+T{;{	;U;[0I"S<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>Insta-Tweet</title>
+    
     <link rel="stylesheet" href="/assets/stylesheet.css">
     <link rel="stylesheet" href="/assets/animate.css">
     <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
@@ -4337,11 +4340,12 @@ When text is highlighted and the Tweet button clicked, the text is:</p>
 </ol>
 ;
 T;@to;;;;	I"/side/frat-srat-gen.md;
-T{;{	;U;[0I"<!DOCTYPE HTML>
+T{;{	;U;[0I"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>Frat-Srat-Gen</title>
+    
     <link rel="stylesheet" href="/assets/stylesheet.css">
     <link rel="stylesheet" href="/assets/animate.css">
     <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
@@ -4468,11 +4472,12 @@ T;U;[0I"ù
 </ol>
 ;
 T;@}o;;;;	I"/work/email-branding.md;
-T{;{	;U;[0I"Ê<!DOCTYPE HTML>
+T{;{	;U;[0I"Î<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>Email Branding</title>
+    
     <link rel="stylesheet" href="/assets/stylesheet.css">
     <link rel="stylesheet" href="/assets/animate.css">
     <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
@@ -4605,11 +4610,12 @@ Once implemented in Pardot, the newly branded emails performed 4% better on aver
 </ol>
 ;
 T;@ão;;;;	I"/work/landing-pages.md;
-T{;{	;U;[0I"•<!DOCTYPE HTML>
+T{;{	;U;[0I"™<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>Landing Pages</title>
+    
     <link rel="stylesheet" href="/assets/stylesheet.css">
     <link rel="stylesheet" href="/assets/animate.css">
     <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
@@ -4739,11 +4745,12 @@ A lot of what I did with landing pages was to make them mobile responsive, compl
 </ol>
 ;
 T;@ôo;;;;	I"/work/reporting-tool.md;
-T{;{	;U;[0I"”<!DOCTYPE HTML>
+T{;{	;U;[0I"ÿ<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>Reporting Tool</title>
+    
     <link rel="stylesheet" href="/assets/stylesheet.css">
     <link rel="stylesheet" href="/assets/animate.css">
     <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
@@ -4973,11 +4980,12 @@ It works by:</p>
 <p><em>Note: For confidentiality reasons, I‚Äôm not allowed to post the source files on the internet :(</em></p>
 ;
 T;@ßo;;;;	I"/side/grade-tracker.md;
-T{;{	;U;[0I"4<!DOCTYPE HTML>
+T{;{	;U;[0I"9<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>Grade Tracker</title>
+    
     <link rel="stylesheet" href="/assets/stylesheet.css">
     <link rel="stylesheet" href="/assets/animate.css">
     <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
@@ -5086,11 +5094,12 @@ The tracker and site were made in 24 hours to prevent scope creep.</p>
 <p>It works by automating as many things as possible using Excel formulas to make entering grades and seeing how your GPA is affected as easy as possible.</p>
 ;
 T;@µo;;;;	I"/more/about.md;
-T{;{	;U;[0I"<!DOCTYPE HTML>
+T{;{	;U;[0I"	<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>About</title>
+    
     <link rel="stylesheet" href="/assets/stylesheet.css">
     <link rel="stylesheet" href="/assets/animate.css">
     <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
@@ -5251,12 +5260,20 @@ It is something I hope to make an impact on the world doing.</p>
 ;
 T;@√o;;;;	I"/assets/stylesheet.css;
 T{;{;U;[I"C/home/ubuntu/workspace/portfolio/content/assets/stylesheet.css;
-TI"
-* {
+TI"@import 'https://fonts.googleapis.com/css?family=Muli';
+@import 'https://fonts.googleapis.com/css?family=Arbutus+Slab';
+
+* {
   margin: 0;
   padding: 0;
 
-  font-family: Georgia, Palatino, serif;
+  /*font-family: Georgia, Palatino, serif;*/
+
+  font-family: 'Muli', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Arbutus Slab', serif;
 }
 
 body {
@@ -5393,6 +5410,8 @@ a:hover {
   letter-spacing: 1px;
 
   line-height: 23px;
+  
+  font-family: 'Muli', sans-serif;
 }
 
 #sidebar ul {
