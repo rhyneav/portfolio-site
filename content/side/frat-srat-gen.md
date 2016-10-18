@@ -2,7 +2,7 @@
 title: Frat-Srat-Gen
 published: 1 October 2016
 
-link: http://frat-srat-gen.vlaservi.ch/
+link: https://vlaservi.ch/frat-srat-gen/
 repo: https://github.com/rhyneav/frat-srat-gen
 
 languages:

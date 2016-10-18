@@ -4343,7 +4343,7 @@ When text is highlighted and the Tweet button clicked, the text is:</p>
 </ol>
 ;
 T;@to;;;;	I"/side/frat-srat-gen.md;
-T{;{	;U;[0I"k<!DOCTYPE HTML>
+T{;{	;U;[0I"l<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4418,7 +4418,7 @@ T{;{	;U;[0I"k<!DOCTYPE HTML>
 </ol>
 
         <div class="external">
-          <a class="link-button" target="_blank" href="http://frat-srat-gen.vlaservi.ch/">View the Project</a>
+          <a class="link-button" target="_blank" href="https://vlaservi.ch/frat-srat-gen/">View the Project</a>
           <a class="link-button repo" target="_blank" href="https://github.com/rhyneav/frat-srat-gen">View the Repo</a>
         </div>
         <div class="post-info">
