@@ -4,7 +4,7 @@ title: About
 
 # About
 
-![Rhyne Vlaservich](/img/me.png "Rhyne Vlaservich")
+![Rhyne Vlaservich](/img/me.png "Rhyne Vlaservich"){:class="profile"}
 
 My name is Rhyne Vlaservich, and I'm a fourth year student who likes turning ideas into realities and making inefficient processes more effective through technology.
 
