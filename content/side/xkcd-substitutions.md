@@ -9,7 +9,7 @@ languages:
 - JavaScript
 ---
 
-# xkcd-Substitutions
+# xkcd-Subs
 
 This Chrome extension makes the news great again by substituting crappy media words with more fun words! 
 It was made to better my JavaScript skills and make something fun for people to use in anticipation for the 2016 election.

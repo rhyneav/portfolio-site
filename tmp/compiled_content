@@ -1,4 +1,4 @@
-{:	data{o:Nanoc::Identifier:
+{:	data{o:Nanoc::Identifier:
 @type:	full:@stringI"/stylesheet.css:ET{:default{:	lastU:Nanoc::Int::TextualContent[I"</home/ubuntu/workspace/portfolio/content/stylesheet.css;
 TI"h* {
   margin: 0;
@@ -3739,7 +3739,7 @@ TI"C@charset "UTF-8";
 }
 ;
 T;@&;@&o;;;;	I"/index.md;
-T{;{	;U;[0I"÷<!DOCTYPE HTML>
+T{;{	;U;[0I"—<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -3778,7 +3778,7 @@ T{;{	;U;[0I"÷<!DOCTYPE HTML>
           <ul>
             <li><a href="/more/about/">About</a></li>
             <li><a href="/more/contact/">Contact</a></li>
-            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016-site.pdf">Resume</a></li> 
+            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016.pdf">Resume</a></li> 
           </ul>
           <h2>External Links</h2>
           <ul>
@@ -4104,7 +4104,7 @@ T;U;[0I"∆
 <p>If you are looking to get in touch with Rhyne regarding exciting opportunities or to chat about web development, just shoot him an email at rhyneav@gmail.com!</p>
 ;
 T;@Xo;;;;	I"/more/contact.md;
-T{;{	;U;[0I"∂<!DOCTYPE HTML>
+T{;{	;U;[0I"±<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4143,7 +4143,7 @@ T{;{	;U;[0I"∂<!DOCTYPE HTML>
           <ul>
             <li><a href="/more/about/">About</a></li>
             <li><span class="active">Contact</span></li>
-            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016-site.pdf">Resume</a></li> 
+            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016.pdf">Resume</a></li> 
           </ul>
           <h2>External Links</h2>
           <ul>
@@ -4200,7 +4200,7 @@ T;U;[0I"ˇ
 <p>If you are looking to get in touch regarding exciting opportunities or to chat about web development, just shoot me an email at <a href="mailto:rhyneav@gmail.com?Subject=Hello" target="_blank">rhyneav@gmail.com</a>!</p>
 ;
 T;@fo;;;;	I"/side/insta-tweet.md;
-T{;{	;U;[0I"£<!DOCTYPE HTML>
+T{;{	;U;[0I"û<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4239,7 +4239,7 @@ T{;{	;U;[0I"£<!DOCTYPE HTML>
           <ul>
             <li><a href="/more/about/">About</a></li>
             <li><a href="/more/contact/">Contact</a></li>
-            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016-site.pdf">Resume</a></li> 
+            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016.pdf">Resume</a></li> 
           </ul>
           <h2>External Links</h2>
           <ul>
@@ -4343,7 +4343,7 @@ When text is highlighted and the Tweet button clicked, the text is:</p>
 </ol>
 ;
 T;@to;;;;	I"/side/frat-srat-gen.md;
-T{;{	;U;[0I"l<!DOCTYPE HTML>
+T{;{	;U;[0I"g<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4382,7 +4382,7 @@ T{;{	;U;[0I"l<!DOCTYPE HTML>
           <ul>
             <li><a href="/more/about/">About</a></li>
             <li><a href="/more/contact/">Contact</a></li>
-            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016-site.pdf">Resume</a></li> 
+            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016.pdf">Resume</a></li> 
           </ul>
           <h2>External Links</h2>
           <ul>
@@ -4476,7 +4476,7 @@ T;U;[0I"ù
 </ol>
 ;
 T;@}o;;;;	I"/work/email-branding.md;
-T{;{	;U;[0I";<!DOCTYPE HTML>
+T{;{	;U;[0I"6<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4515,7 +4515,7 @@ T{;{	;U;[0I";<!DOCTYPE HTML>
           <ul>
             <li><a href="/more/about/">About</a></li>
             <li><a href="/more/contact/">Contact</a></li>
-            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016-site.pdf">Resume</a></li> 
+            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016.pdf">Resume</a></li> 
           </ul>
           <h2>External Links</h2>
           <ul>
@@ -4615,7 +4615,7 @@ Once implemented in Pardot, the newly branded emails performed 4% better on aver
 </ol>
 ;
 T;@ão;;;;	I"/work/landing-pages.md;
-T{;{	;U;[0I"˙<!DOCTYPE HTML>
+T{;{	;U;[0I"ı<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4654,7 +4654,7 @@ T{;{	;U;[0I"˙<!DOCTYPE HTML>
           <ul>
             <li><a href="/more/about/">About</a></li>
             <li><a href="/more/contact/">Contact</a></li>
-            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016-site.pdf">Resume</a></li> 
+            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016.pdf">Resume</a></li> 
           </ul>
           <h2>External Links</h2>
           <ul>
@@ -4751,7 +4751,7 @@ A lot of what I did with landing pages was to make them mobile responsive, compl
 </ol>
 ;
 T;@ôo;;;;	I"/work/reporting-tool.md;
-T{;{	;U;[0I"(<!DOCTYPE HTML>
+T{;{	;U;[0I"#<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4790,7 +4790,7 @@ T{;{	;U;[0I"(<!DOCTYPE HTML>
           <ul>
             <li><a href="/more/about/">About</a></li>
             <li><a href="/more/contact/">Contact</a></li>
-            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016-site.pdf">Resume</a></li> 
+            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016.pdf">Resume</a></li> 
           </ul>
           <h2>External Links</h2>
           <ul>
@@ -4987,7 +4987,7 @@ It works by:</p>
 <p><em>Note: For confidentiality reasons, I‚Äôm not allowed to post the source files on the internet :(</em></p>
 ;
 T;@ßo;;;;	I"/side/grade-tracker.md;
-T{;{	;U;[0I"â<!DOCTYPE HTML>
+T{;{	;U;[0I"Ñ<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -5026,7 +5026,7 @@ T{;{	;U;[0I"â<!DOCTYPE HTML>
           <ul>
             <li><a href="/more/about/">About</a></li>
             <li><a href="/more/contact/">Contact</a></li>
-            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016-site.pdf">Resume</a></li> 
+            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016.pdf">Resume</a></li> 
           </ul>
           <h2>External Links</h2>
           <ul>
@@ -5102,7 +5102,7 @@ The tracker and site were made in 24 hours to prevent scope creep.</p>
 <p>It works by automating as many things as possible using Excel formulas to make entering grades and seeing how your GPA is affected as easy as possible.</p>
 ;
 T;@µo;;;;	I"/more/about.md;
-T{;{	;U;[0I"i<!DOCTYPE HTML>
+T{;{	;U;[0I"d<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -5141,7 +5141,7 @@ T{;{	;U;[0I"i<!DOCTYPE HTML>
           <ul>
             <li><span class="active">About</span></li>
             <li><a href="/more/contact/">Contact</a></li>
-            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016-site.pdf">Resume</a></li> 
+            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016.pdf">Resume</a></li> 
           </ul>
           <h2>External Links</h2>
           <ul>
@@ -5269,7 +5269,7 @@ It is something I hope to make an impact on the world doing.</p>
 ;
 T;@√o;;;;	I"/assets/stylesheet.css;
 T{;{;U;[I"C/home/ubuntu/workspace/portfolio/content/assets/stylesheet.css;
-TI"'@import 'https://fonts.googleapis.com/css?family=Muli';
+TI"G@import 'https://fonts.googleapis.com/css?family=Muli';
 @import 'https://fonts.googleapis.com/css?family=Arbutus+Slab';
 
 * {
@@ -5304,10 +5304,11 @@ a:hover {
 
 #main img {
   border: 4px solid #fff;
-  
   margin: 24px 0;
-  
   box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+  
+  max-width: 100%;
+  height: auto;
 }
 
 #main .profile {
@@ -8985,7 +8986,7 @@ T{;{;o;;I"8/home/ubuntu/workspace/portfolio/content/img/me.png;
 To;;;;	I"//more/Vlaservich-Resume-Fall-2016-site.pdf;
 T{;{;o;;I"W/home/ubuntu/workspace/portfolio/content/more/Vlaservich-Resume-Fall-2016-site.pdf;
 To;;;;	I" /side/xkcd-substitutions.md;
-T{;{	;U;[0I"~<!DOCTYPE HTML>
+T{;{	;U;[0I"g<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -9024,7 +9025,7 @@ T{;{	;U;[0I"~<!DOCTYPE HTML>
           <ul>
             <li><a href="/more/about/">About</a></li>
             <li><a href="/more/contact/">Contact</a></li>
-            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016-site.pdf">Resume</a></li> 
+            <li><a target="_blank" href="/more/Vlaservich-Resume-Fall-2016.pdf">Resume</a></li> 
           </ul>
           <h2>External Links</h2>
           <ul>
@@ -9042,7 +9043,7 @@ T{;{	;U;[0I"~<!DOCTYPE HTML>
           <a href="javascript:void(0)" id="open-nav" class="nav-button ">&#9776;</a>
         </div>
         
-<h1 id="xkcd-substitutions">xkcd-Substitutions</h1>
+<h1 id="xkcd-subs">xkcd-Subs</h1>
 
 <p>This Chrome extension makes the news great again by substituting crappy media words with more fun words! 
 It was made to better my JavaScript skills and make something fun for people to use in anticipation for the 2016 election.
@@ -9145,8 +9146,8 @@ It is based off of xkcd‚Äôs substitutions comics shown below:</p>
 </html>
 ;
 T;U;[I"H/home/ubuntu/workspace/portfolio/content/side/xkcd-substitutions.md;
-TI"D	
-# xkcd-Substitutions
+TI";	
+# xkcd-Subs
 
 This Chrome extension makes the news great again by substituting crappy media words with more fun words! 
 It was made to better my JavaScript skills and make something fun for people to use in anticipation for the 2016 election.
@@ -9221,8 +9222,8 @@ It is based off of xkcd's substitutions comics shown below:
 - meeting: *menage a trois* 
 - scientists: *channing tatum and his friends* 
 - you won't believe: *I'm really sad about* ;
-T;U;[0I"â
-<h1 id="xkcd-substitutions">xkcd-Substitutions</h1>
+T;U;[0I"w
+<h1 id="xkcd-subs">xkcd-Subs</h1>
 
 <p>This Chrome extension makes the news great again by substituting crappy media words with more fun words! 
 It was made to better my JavaScript skills and make something fun for people to use in anticipation for the 2016 election.
@@ -9300,4 +9301,6 @@ It is based off of xkcd‚Äôs substitutions comics shown below:</p>
   <li>you won‚Äôt believe: <em>I‚Äôm really sad about</em></li>
 </ul>
 ;
-T;@˚:versioni
+T;@˚o;;;;	I"*/more/Vlaservich-Resume-Fall-2016.pdf;
+T{;{;o;;I"R/home/ubuntu/workspace/portfolio/content/more/Vlaservich-Resume-Fall-2016.pdf;
+T:versioni
