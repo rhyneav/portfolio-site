@@ -27,4 +27,4 @@ However, I know I want to make things for people using computers.
 The concept of taking an idea and making it into a polished product that anyone with a computer can use is mind-blowingly cool.
 It is something I hope to make an impact on the world doing.
 
-*Check out [my resume](/more/Vlaservich-Resume-Fall-2016-site.pdf) to learn more about what I'm doing!*
+*Check out [my resume](/more/Vlaservich-Resume-Fall-2016.pdf) to learn more about what I'm doing!*

@@ -5142,7 +5142,7 @@ The tracker and site were made in 24 hours to prevent scope creep.</p>
 <p>It works by automating as many things as possible using Excel formulas to make entering grades and seeing how your GPA is affected as easy as possible.</p>
 ;
 T;@µo;;;;	I"/more/about.md;
-T{;{	;U;[0I"6<!DOCTYPE HTML>
+T{;{	;U;[0I"1<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -5229,7 +5229,7 @@ However, I know I want to make things for people using computers.
 The concept of taking an idea and making it into a polished product that anyone with a computer can use is mind-blowingly cool.
 It is something I hope to make an impact on the world doing.</p>
 
-<p><em>Check out <a href="/more/Vlaservich-Resume-Fall-2016-site.pdf">my resume</a> to learn more about what Iâ€™m doing!</em></p>
+<p><em>Check out <a href="/more/Vlaservich-Resume-Fall-2016.pdf">my resume</a> to learn more about what Iâ€™m doing!</em></p>
 
         <div class="external">
           
@@ -5256,7 +5256,8 @@ It is something I hope to make an impact on the world doing.</p>
 </html>
 ;
 T;U;[I";/home/ubuntu/workspace/portfolio/content/more/about.md;
-TI"
+TI"
+
 # About
 
 ![Rhyne Vlaservich](/img/me.png "Rhyne Vlaservich"){:class="profile"}
@@ -5282,9 +5283,9 @@ However, I know I want to make things for people using computers.
 The concept of taking an idea and making it into a polished product that anyone with a computer can use is mind-blowingly cool.
 It is something I hope to make an impact on the world doing.
 
-*Check out [my resume](/more/Vlaservich-Resume-Fall-2016-site.pdf) to learn more about what I'm doing!*
+*Check out [my resume](/more/Vlaservich-Resume-Fall-2016.pdf) to learn more about what I'm doing!*
 ;
-T;U;[0I"²
+T;U;[0I"­
 <h1 id="about">About</h1>
 
 <p><img src="/img/me.png" alt="Rhyne Vlaservich" title="Rhyne Vlaservich" class="profile" /></p>
@@ -5310,7 +5311,7 @@ However, I know I want to make things for people using computers.
 The concept of taking an idea and making it into a polished product that anyone with a computer can use is mind-blowingly cool.
 It is something I hope to make an impact on the world doing.</p>
 
-<p><em>Check out <a href="/more/Vlaservich-Resume-Fall-2016-site.pdf">my resume</a> to learn more about what Iâ€™m doing!</em></p>
+<p><em>Check out <a href="/more/Vlaservich-Resume-Fall-2016.pdf">my resume</a> to learn more about what Iâ€™m doing!</em></p>
 ;
 T;@Ão;;;;	I"/assets/stylesheet.css;
 T{;{;U;[I"C/home/ubuntu/workspace/portfolio/content/assets/stylesheet.css;
