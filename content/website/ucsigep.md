@@ -1,6 +1,6 @@
 ---
-title: UC SigEP
-published: 1 December 2016
+title: UC SigEp
+published: 1 October 2016
 
 link: http://ucsigep.org/
 

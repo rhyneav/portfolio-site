@@ -9473,11 +9473,11 @@ It was built using Bootstrap for mobile first design providing a clean layout on
 Additonally, the <a href="http://abundancesprings.com/testimonialsBlog.php">testimonial page</a> is built with PHP to make adding new testimonials through the back end user friendly with no HTML coding needed.</p>
 ;
 T;@o;;;;	I"/website/ucsigep.md;
-T{;{	;U;[0I"‰<!DOCTYPE HTML>
+T{;{	;U;[0I"ˆ<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>UC SigEP</title>
+    <title>UC SigEp</title>
     
     <link rel="stylesheet" href="/assets/stylesheet.css">
     <link rel="stylesheet" href="/assets/animate.css">
@@ -9551,7 +9551,7 @@ It also has a hidden resource center for active brothers containing bylaws, meet
         </div>
         <div class="post-info">
           <p>Made with: HTML, PHP, CSS, WordPress</p>
-          <p>Published on: 1 December 2016</p>
+          <p>Published on: 1 October 2016</p>
         </div>
       </div>
     </div>
