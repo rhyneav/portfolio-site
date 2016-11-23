@@ -1,4 +1,4 @@
-{:	data{ [:item_repo:Nanoc::Identifier:
+{:	data{![:item_repo:Nanoc::Identifier:
 @type:	full:@stringI"/stylesheet.css:ET:default[[	:snapshot:rawT0[	;:preF0[	;:	lastTI"/stylesheet.css;T[;o;;;	;
 I"/index.html;T;[[	;;T0[	;;F0[	;;T0[:layoutI"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;:	postT0[	;;TI"/index.html;T[;o;;;	;
 I"/default.html;T[[:filter:erbI"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[;o;;;	;
@@ -25,4 +25,5 @@ I"//more/Vlaservich-Resume-Fall-2016-site.pdf;T;[[	;;T0[	;;F0[	;;TI"//
 I" /side/xkcd-substitutions.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[	;;T0[;I"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;;T0[	;;TI"(/side/xkcd-substitutions/index.html;T[;o;;;	;
 I"*/more/Vlaservich-Resume-Fall-2016.pdf;T;[[	;;T0[	;;F0[	;;TI"*/more/Vlaservich-Resume-Fall-2016.pdf;T[;o;;;	;
 I"!/website/abundancesprings.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[	;;T0[;I"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;;T0[	;;TI")/website/abundancesprings/index.html;T[;o;;;	;
-I"/website/ucsigep.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[	;;T0[;I"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;;T0[	;;TI" /website/ucsigep/index.html;T:versioni
+I"/website/ucsigep.md;T;[[	;;T0[	;;F0[;;I"!s3jRyK92B9DrdMuJFubVGRDoPr8=;F[	;;T0[;I"/default.*;TI"!njH44IXmHxKt3g0D9qK+rBlirTE=;F[	;;T0[	;;TI" /website/ucsigep/index.html;T[;o;;;	;
+I" /more/Vlaservich-Resume.pdf;T;[[	;;T0[	;;F0[	;;T@H:versioni
