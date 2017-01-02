@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Abundance Springs</title>
+    <title>Values Sorter</title>
     
     <link rel="stylesheet" href="/assets/stylesheet.css">
     <link rel="stylesheet" href="/assets/animate.css">
@@ -26,7 +26,7 @@
             <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
             <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
             <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
-            <li><a href="/side/values-sorter/">Values Sorter</a></li>
+            <li><span class="active">Values Sorter</span></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -37,7 +37,7 @@
           <h2>Websites</h2>
           <ul>
             <li><a href="/website/ucsigep/">UC SigEp</a></li>
-            <li><span class="active">Abundance Springs</span></li>
+            <li><a href="/website/abundancesprings/">Abundance Springs</a></li>
           </ul>
           <h2>More Info</h2>
           <ul>
@@ -61,23 +61,35 @@
           <a href="javascript:void(0)" id="open-nav" class="nav-button ">&#9776;</a>
         </div>
         
-<h1 id="abundance-springs">Abundance Springs</h1>
+<h1 id="values-sorter">Values Sorter</h1>
 
-<h4 id="freelance">Freelance</h4>
+<p>This past fall, a good friend of mine referred me to a way to find out what you value most in life.
+It was a printout of 83 values to sort into three categories: very important, somewhat important, and not important.
+He was using it as a way to help him prepare for a job interview and said it might be helpful with setting goals related to what you truly care about.</p>
 
-<p>Abundance Springs was a freelance project for a holistic health coach to have an internet presence and increase leads. 
-It was built using Bootstrap for mobile first design providing a clean layout on every device.</p>
+<p>I kept putting it off mostly because I didn’t want to spend time printing and cutting out 83 note cards.
+Eventually I decided it might be a fun side project to make a digital version and practice my front-end skills.</p>
 
-<p>Using PHP, several <a href="http://abundancesprings.com/3-6month.html">call to action forms</a> are spread throughout the site that send an email to the site owner when a potential client fills out a form. 
-Additonally, the <a href="http://abundancesprings.com/testimonialsBlog.php">testimonial page</a> is built with PHP to make adding new testimonials through the back end user friendly with no HTML coding needed.</p>
+<p>So I did that in a matter of a couple days before the new year.</p>
+
+<h2 id="how-does-it-work">How does it work?</h2>
+
+<p>It works by taking an array of values with their description and loading them into the user’s browser.
+From there, the values display one at a time allowing users to sort through them with the buttons below.
+When ‘Very important’ is clicked, the value gets pushed to another array. 
+Once all values are sorted through, the very_important array is sorted through again and again until only one value is left.</p>
+
+<p>This could take a long time, so there is also functionality to stop at any point and view all of the values currently in the very important array.</p>
+
+<p>I hope this helps find what you really value in life!</p>
 
         <div class="external">
-          <a class="link-button" target="_blank" href="http://abundancesprings.com/">View the Project</a>
+          <a class="link-button" target="_blank" href="https://vlaservi.ch/values-sorter/">View the Project</a>
           
         </div>
         <div class="post-info">
-          <p>Made with: HTML, PHP, CSS, JavaScript, Bootstrap</p>
-          <p>Published on: 1 December 2016</p>
+          <p>Made with: JavaScript, JQuery, HTML, CSS</p>
+          <p>Published on: 30 December 2016</p>
         </div>
       </div>
     </div>

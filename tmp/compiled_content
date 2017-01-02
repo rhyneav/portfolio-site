@@ -1,4 +1,4 @@
-{:	data{ o:Nanoc::Identifier:
+{:	data{!o:Nanoc::Identifier:
 @type:	full:@stringI"/stylesheet.css:ET{:default{:	lastU:Nanoc::Int::TextualContent[I"</home/ubuntu/workspace/portfolio/content/stylesheet.css;
 TI"h* {
   margin: 0;
@@ -3739,7 +3739,7 @@ TI"C@charset "UTF-8";
 }
 ;
 T;@&;@&o;;;;	I"/index.md;
-T{;{	;U;[0I"ô<!DOCTYPE HTML>
+T{;{	;U;[0I"ﬂ<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -3767,6 +3767,7 @@ T{;{	;U;[0I"ô<!DOCTYPE HTML>
             <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
             <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
             <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
+            <li><a href="/side/values-sorter/">Values Sorter</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -4109,7 +4110,7 @@ T;U;[0I"∆
 <p>If you are looking to get in touch with Rhyne regarding exciting opportunities or to chat about web development, just shoot him an email at rhyneav@gmail.com!</p>
 ;
 T;@Xo;;;;	I"/more/contact.md;
-T{;{	;U;[0I"y<!DOCTYPE HTML>
+T{;{	;U;[0I"ø<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4137,6 +4138,7 @@ T{;{	;U;[0I"y<!DOCTYPE HTML>
             <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
             <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
             <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
+            <li><a href="/side/values-sorter/">Values Sorter</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -4210,7 +4212,7 @@ T;U;[0I"ˇ
 <p>If you are looking to get in touch regarding exciting opportunities or to chat about web development, just shoot me an email at <a href="mailto:rhyne@vlaservi.ch?Subject=Hello" target="_blank">rhyne@vlaservi.ch</a>!</p>
 ;
 T;@fo;;;;	I"/side/insta-tweet.md;
-T{;{	;U;[0I"f<!DOCTYPE HTML>
+T{;{	;U;[0I"¨<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4238,6 +4240,7 @@ T{;{	;U;[0I"f<!DOCTYPE HTML>
             <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
             <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
             <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
+            <li><a href="/side/values-sorter/">Values Sorter</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -4358,7 +4361,7 @@ When text is highlighted and the Tweet button clicked, the text is:</p>
 </ol>
 ;
 T;@to;;;;	I"/side/frat-srat-gen.md;
-T{;{	;U;[0I"/<!DOCTYPE HTML>
+T{;{	;U;[0I"u<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4386,6 +4389,7 @@ T{;{	;U;[0I"/<!DOCTYPE HTML>
             <li><span class="active">Frat-Srat-Gen</span></li>
             <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
             <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
+            <li><a href="/side/values-sorter/">Values Sorter</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -4496,7 +4500,7 @@ T;U;[0I"ù
 </ol>
 ;
 T;@}o;;;;	I"/work/email-branding.md;
-T{;{	;U;[0I"˛<!DOCTYPE HTML>
+T{;{	;U;[0I"D<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4524,6 +4528,7 @@ T{;{	;U;[0I"˛<!DOCTYPE HTML>
             <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
             <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
             <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
+            <li><a href="/side/values-sorter/">Values Sorter</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -4640,7 +4645,7 @@ Once implemented in Pardot, the newly branded emails performed 4% better on aver
 </ol>
 ;
 T;@ão;;;;	I"/work/landing-pages.md;
-T{;{	;U;[0I"Ω<!DOCTYPE HTML>
+T{;{	;U;[0I"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4668,6 +4673,7 @@ T{;{	;U;[0I"Ω<!DOCTYPE HTML>
             <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
             <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
             <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
+            <li><a href="/side/values-sorter/">Values Sorter</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -4781,7 +4787,7 @@ A lot of what I did with landing pages was to make them mobile responsive, compl
 </ol>
 ;
 T;@ôo;;;;	I"/work/reporting-tool.md;
-T{;{	;U;[0I"Î<!DOCTYPE HTML>
+T{;{	;U;[0I"1<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -4809,6 +4815,7 @@ T{;{	;U;[0I"Î<!DOCTYPE HTML>
             <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
             <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
             <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
+            <li><a href="/side/values-sorter/">Values Sorter</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -5022,7 +5029,7 @@ It works by:</p>
 <p><em>Note: For confidentiality reasons, I‚Äôm not allowed to post the source files on the internet :(</em></p>
 ;
 T;@ßo;;;;	I"/side/grade-tracker.md;
-T{;{	;U;[0I"L<!DOCTYPE HTML>
+T{;{	;U;[0I"í<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -5050,6 +5057,7 @@ T{;{	;U;[0I"L<!DOCTYPE HTML>
             <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
             <li><span class="active">Grade Tracker</span></li>
             <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
+            <li><a href="/side/values-sorter/">Values Sorter</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -5142,7 +5150,7 @@ The tracker and site were made in 24 hours to prevent scope creep.</p>
 <p>It works by automating as many things as possible using Excel formulas to make entering grades and seeing how your GPA is affected as easy as possible.</p>
 ;
 T;@µo;;;;	I"/more/about.md;
-T{;{	;U;[0I"'<!DOCTYPE HTML>
+T{;{	;U;[0I"m<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -5170,6 +5178,7 @@ T{;{	;U;[0I"'<!DOCTYPE HTML>
             <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
             <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
             <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
+            <li><a href="/side/values-sorter/">Values Sorter</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -9032,7 +9041,7 @@ T{;{;o;;I"8/home/ubuntu/workspace/portfolio/content/img/me.png;
 To;;;;	I"//more/Vlaservich-Resume-Fall-2016-site.pdf;
 T{;{;o;;I"W/home/ubuntu/workspace/portfolio/content/more/Vlaservich-Resume-Fall-2016-site.pdf;
 To;;;;	I" /side/xkcd-substitutions.md;
-T{;{	;U;[0I"/<!DOCTYPE HTML>
+T{;{	;U;[0I"u<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -9060,6 +9069,7 @@ T{;{	;U;[0I"/<!DOCTYPE HTML>
             <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
             <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
             <li><span class="active">xkcd-Substitutions</span></li>
+            <li><a href="/side/values-sorter/">Values Sorter</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -9355,7 +9365,7 @@ It is based off of xkcd‚Äôs substitutions comics shown below:</p>
 T;@˚o;;;;	I"*/more/Vlaservich-Resume-Fall-2016.pdf;
 T{;{;o;;I"R/home/ubuntu/workspace/portfolio/content/more/Vlaservich-Resume-Fall-2016.pdf;
 To;;;;	I"!/website/abundancesprings.md;
-T{;{	;U;[0I"<!DOCTYPE HTML>
+T{;{	;U;[0I"V<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -9383,6 +9393,7 @@ T{;{	;U;[0I"<!DOCTYPE HTML>
             <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
             <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
             <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
+            <li><a href="/side/values-sorter/">Values Sorter</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -9474,7 +9485,7 @@ It was built using Bootstrap for mobile first design providing a clean layout on
 Additonally, the <a href="http://abundancesprings.com/testimonialsBlog.php">testimonial page</a> is built with PHP to make adding new testimonials through the back end user friendly with no HTML coding needed.</p>
 ;
 T;@o;;;;	I"/website/ucsigep.md;
-T{;{	;U;[0I"~<!DOCTYPE HTML>
+T{;{	;U;[0I"ƒ<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -9502,6 +9513,7 @@ T{;{	;U;[0I"~<!DOCTYPE HTML>
             <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
             <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
             <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
+            <li><a href="/side/values-sorter/">Values Sorter</a></li>
           </ul>
           <h2>Work Projects</h2>
           <ul>
@@ -9595,4 +9607,161 @@ It also has a hidden resource center for active brothers containing bylaws, meet
 ;
 T;@o;;;;	I" /more/Vlaservich-Resume.pdf;
 T{;{;o;;I"H/home/ubuntu/workspace/portfolio/content/more/Vlaservich-Resume.pdf;
-T:versioni
+To;;;;	I"/side/values-sorter.md;
+T{;{	;U;[0I"¯<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Values Sorter</title>
+    
+    <link rel="stylesheet" href="/assets/stylesheet.css">
+    <link rel="stylesheet" href="/assets/animate.css">
+    <link rel='shortcut icon' type='image/x-icon' href='/assets/favicon.ico' />
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="Nanoc 4.3.2">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <div class="content">
+      <div id="sidebar">
+        <div class="button-container">
+          <a href="javascript:void(0)" id="close-nav" class="nav-button ">&times;</a>
+        </div>
+        <div class="navigation">
+          <h2>Side Projects</h2>
+          <ul>
+            <li><a href="/side/insta-tweet/">Insta-Tweet</a></li>
+            <li><a href="/side/frat-srat-gen/">Frat-Srat-Gen</a></li>
+            <li><a href="/side/grade-tracker/">Grade Tracker</a></li>
+            <li><a href="/side/xkcd-substitutions/">xkcd-Substitutions</a></li>
+            <li><span class="active">Values Sorter</span></li>
+          </ul>
+          <h2>Work Projects</h2>
+          <ul>
+            <li><a href="/work/email-branding/">Email Branding</a></li>
+            <li><a href="/work/landing-pages/">Landing Pages</a></li>
+            <li><a href="/work/reporting-tool/">Reporting Tool</a></li>
+          </ul>         
+          <h2>Websites</h2>
+          <ul>
+            <li><a href="/website/ucsigep/">UC SigEp</a></li>
+            <li><a href="/website/abundancesprings/">Abundance Springs</a></li>
+          </ul>
+          <h2>More Info</h2>
+          <ul>
+            <li><a href="/more/about/">About</a></li>
+            <li><a href="/more/contact/">Contact</a></li>
+            <li><a target="_blank" href="/more/Vlaservich-Resume.pdf">Resume</a></li> 
+          </ul>
+          <h2>External Links</h2>
+          <ul>
+            <li><a target="_blank" href="https://www.linkedin.com/in/rhyne-vlaservich-9a4bb182">LinkedIn</a></li>
+            <li><a target="_blank" href="https://github.com/rhyneav">Github</a></li>
+            <li><a target="_blank" href="https://medium.com/@rhyneav">Medium</a></li>
+          </ul>
+          <ul class="home-link">
+            <li><a href="/">Home</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="main">
+        <div class="button-container">
+          <a href="javascript:void(0)" id="open-nav" class="nav-button ">&#9776;</a>
+        </div>
+        
+<h1 id="values-sorter">Values Sorter</h1>
+
+<p>This past fall, a good friend of mine referred me to a way to find out what you value most in life.
+It was a printout of 83 values to sort into three categories: very important, somewhat important, and not important.
+He was using it as a way to help him prepare for a job interview and said it might be helpful with setting goals related to what you truly care about.</p>
+
+<p>I kept putting it off mostly because I didn‚Äôt want to spend time printing and cutting out 83 note cards.
+Eventually I decided it might be a fun side project to make a digital version and practice my front-end skills.</p>
+
+<p>So I did that in a matter of a couple days before the new year.</p>
+
+<h2 id="how-does-it-work">How does it work?</h2>
+
+<p>It works by taking an array of values with their description and loading them into the user‚Äôs browser.
+From there, the values display one at a time allowing users to sort through them with the buttons below.
+When ‚ÄòVery important‚Äô is clicked, the value gets pushed to another array. 
+Once all values are sorted through, the very_important array is sorted through again and again until only one value is left.</p>
+
+<p>This could take a long time, so there is also functionality to stop at any point and view all of the values currently in the very important array.</p>
+
+<p>I hope this helps find what you really value in life!</p>
+
+        <div class="external">
+          <a class="link-button" target="_blank" href="https://vlaservi.ch/values-sorter/">View the Project</a>
+          
+        </div>
+        <div class="post-info">
+          <p>Made with: JavaScript, JQuery, HTML, CSS</p>
+          <p>Published on: 30 December 2016</p>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript" src="/assets/scripts.js"></script>
+    <!-- Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      
+      ga('create', 'UA-82661926-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>
+;
+T;U;[I"C/home/ubuntu/workspace/portfolio/content/side/values-sorter.md;
+TI"
+# Values Sorter
+
+This past fall, a good friend of mine referred me to a way to find out what you value most in life.
+It was a printout of 83 values to sort into three categories: very important, somewhat important, and not important.
+He was using it as a way to help him prepare for a job interview and said it might be helpful with setting goals related to what you truly care about.
+
+I kept putting it off mostly because I didn't want to spend time printing and cutting out 83 note cards.
+Eventually I decided it might be a fun side project to make a digital version and practice my front-end skills.
+
+So I did that in a matter of a couple days before the new year.
+
+## How does it work?
+
+It works by taking an array of values with their description and loading them into the user's browser.
+From there, the values display one at a time allowing users to sort through them with the buttons below.
+When 'Very important' is clicked, the value gets pushed to another array. 
+Once all values are sorted through, the very_important array is sorted through again and again until only one value is left.
+
+This could take a long time, so there is also functionality to stop at any point and view all of the values currently in the very important array.
+
+I hope this helps find what you really value in life!
+;
+T;U;[0I"
+<h1 id="values-sorter">Values Sorter</h1>
+
+<p>This past fall, a good friend of mine referred me to a way to find out what you value most in life.
+It was a printout of 83 values to sort into three categories: very important, somewhat important, and not important.
+He was using it as a way to help him prepare for a job interview and said it might be helpful with setting goals related to what you truly care about.</p>
+
+<p>I kept putting it off mostly because I didn‚Äôt want to spend time printing and cutting out 83 note cards.
+Eventually I decided it might be a fun side project to make a digital version and practice my front-end skills.</p>
+
+<p>So I did that in a matter of a couple days before the new year.</p>
+
+<h2 id="how-does-it-work">How does it work?</h2>
+
+<p>It works by taking an array of values with their description and loading them into the user‚Äôs browser.
+From there, the values display one at a time allowing users to sort through them with the buttons below.
+When ‚ÄòVery important‚Äô is clicked, the value gets pushed to another array. 
+Once all values are sorted through, the very_important array is sorted through again and again until only one value is left.</p>
+
+<p>This could take a long time, so there is also functionality to stop at any point and view all of the values currently in the very important array.</p>
+
+<p>I hope this helps find what you really value in life!</p>
+;
+T;@1:versioni
