@@ -3,6 +3,7 @@ title: Values Sorter
 published: 30 December 2016
 
 link: https://vlaservi.ch/values-sorter/
+repo: https://github.com/rhyneav/values-sort
 
 languages:
 - JavaScript

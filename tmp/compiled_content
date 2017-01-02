@@ -9608,7 +9608,7 @@ It also has a hidden resource center for active brothers containing bylaws, meet
 T;@o;;;;	I" /more/Vlaservich-Resume.pdf;
 T{;{;o;;I"H/home/ubuntu/workspace/portfolio/content/more/Vlaservich-Resume.pdf;
 To;;;;	I"/side/values-sorter.md;
-T{;{	;U;[0I"ø<!DOCTYPE HTML>
+T{;{	;U;[0I"c<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -9695,7 +9695,7 @@ Once all values are sorted through, the very_important array is sorted through a
 
         <div class="external">
           <a class="link-button" target="_blank" href="https://vlaservi.ch/values-sorter/">View the Project</a>
-          
+          <a class="link-button repo" target="_blank" href="https://github.com/rhyneav/values-sort">View the Repo</a>
         </div>
         <div class="post-info">
           <p>Made with: JavaScript, JQuery, HTML, CSS</p>
